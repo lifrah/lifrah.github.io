@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I exists and this page exists so here goes
 ---
 
 My name is Leonil Ifrah and that:
