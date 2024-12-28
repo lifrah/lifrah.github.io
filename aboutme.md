@@ -1,13 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: I exists and this page exists so here goes
+subtitle: Hi there! It's nice to meet you!
 ---
 
+My name is Leonil Ifrah, some call me Leo for short, and I have a list of things I love!
+- Mathematics,
+- Reading,
+- 
 My name is Leonil Ifrah and that:
 
 - I love mathematics
 - I love sciences & engineering!
 
 ### Why mathematics?
-This carries a personal story, since I myself wasn't particularly good at maths back in high school.
