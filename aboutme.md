@@ -10,7 +10,6 @@ My name is Leonil Ifrah, some call me Leo for short, and I have a list of things
 - 
 My name is Leonil Ifrah and that:
 
-- I love mathematics
-- I love sciences & engineering!
+- I love mathematics & statistics
 
 ### Why mathematics?
